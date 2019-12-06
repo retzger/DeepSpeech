@@ -76,16 +76,6 @@ See the output of ``deepspeech -h`` for more information on the use of ``deepspe
 
 * `Trying out DeepSpeech with examples <examples/README.rst>`_
 
-  * `Microphone VAD streaming  <examples/mic_vad_streaming/README.rst>`_
-  
-  * `FFMPEG VAD streaming  <examples/ffmpeg_vad_streaming/README.rst>`_
-  
-  * `Net framework  <examples/net_framework/README.rst>`_
-  
-  * `Nodejs wav  <examples/nodejs_wav/README.rst>`_
-  
-  * `VAD transcriber  <examples/vad_transcriber/README.rst>`_
-  
 * `Training your own Model <TRAINING.rst#training-your-own-model>`_
 
   * `Prerequisites for training a model <TRAINING.rst#prerequisites-for-training-a-model>`_
